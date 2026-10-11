@@ -58,8 +58,6 @@ dependencies:
   # Online Stream
   # youtube_explode_dart: ^2.5.3 #To hunt for audio on YouTube without an API key.
   soundcloud_explode_dart: ^1.1.0
-  just_audio_media_kit: # Forked for WASAPI exclusive mode support
-    path: packages/just_audio_media_kit_fork
   media_kit: ^1.1.0
   media_kit_libs_video: ^1.0.0
 
